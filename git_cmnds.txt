@@ -59,4 +59,14 @@ $ git log
 
 $ git log -p -<1,2,3....> how much logs you want to check
 
+15 
+
+$ git diff
+
+16 to add & commit in one command
+$ git commit -a -m
+
+17 to remove a added file
+$ git rm <file_name>
+
   
