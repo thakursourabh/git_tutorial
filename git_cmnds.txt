@@ -1,0 +1,41 @@
+*------------------git commands---------------*
+
+1. for config email & user name
+
+$ git config --global user.name <user name>
+$ git config --global user.email <email_id>
+
+2. to check
+
+$ git config --global user.name
+
+$ git config --global user.email
+
+3.to initial a folder
+
+$ git init
+
+4. to check dir.
+
+$ ls -lart
+
+5. to check status
+
+$ git status
+
+6. to add a file
+
+$ git add <file_name>
+
+7. to commit changes
+
+$ git commit -m "your comments"
+
+8. to add more then one files
+
+$ git add -A
+
+9. to create a file 
+
+$ touch <file_name>.extention
+ 
