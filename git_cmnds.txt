@@ -38,4 +38,9 @@ $ git add -A
 9. to create a file 
 
 $ touch <file_name>.extention
- 
+
+10. to clean terminal 
+
+$ clear
+
+11. 
