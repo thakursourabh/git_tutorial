@@ -43,4 +43,20 @@ $ touch <file_name>.extention
 
 $ clear
 
-11. 
+11.to rollback a file with last commit
+
+$ git checkout <file_name>
+
+12. to rollback more then one file file with last commit
+
+$ git checkout -f
+
+13. to check logs
+
+$ git log
+
+14. to check filter log
+
+$ git log -p -<1,2,3....> how much logs you want to check
+
+  
