@@ -84,8 +84,20 @@ $ git merge <branch_name>
 22 to create a branch & switch on it
 $ git checkout -b <branch_name>
 
-23 remote repositry
+23 to create remote repositry
+$ git remote add origin <url>
 
+24 to check remote dir
+$ git remote
+
+25 to check fetch & push url
+$ git remote -v
+
+26 to push ur code on git-server
+$ git push origin master
+
+27 to pull code from git-server
+$ git clone <url> <folder_name>
 
 
 
