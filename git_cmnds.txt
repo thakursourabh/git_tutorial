@@ -72,5 +72,21 @@ $ git rm <file_name>
 18 to remove 
 $ git rm --cached <file_name>
 
-19 
+19 to add branch
+$ git branch <branch name>
+
+20 to enter in branch 
+$ git checkout <branch_name>
+
+21 to merge master branch 
+$ git merge <branch_name>
+
+22 to create a branch & switch on it
+$ git checkout -b <branch_name>
+
+23 remote repositry
+
+
+
+
   
