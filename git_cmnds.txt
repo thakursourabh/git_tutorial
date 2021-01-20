@@ -69,4 +69,8 @@ $ git commit -a -m
 17 to remove a added file
 $ git rm <file_name>
 
+18 to remove 
+$ git rm --cached <file_name>
+
+19 
   
